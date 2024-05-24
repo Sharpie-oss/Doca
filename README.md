@@ -1,8 +1,6 @@
 une fois installer streamlit, faite :
 
-streamlit hello 		( metter une adresse mail random ça marche )
-
-dans le cmd
+streamlit hello 		    dans le cmd ( metter une adresse mail random ça marche )
 
 puis dans :
 
