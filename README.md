@@ -1,5 +1,3 @@
-installer les requirements 
-
 lancer le cmd
 
 aller dans le dossier source du code ( cd "C:\Users\........ ) 
