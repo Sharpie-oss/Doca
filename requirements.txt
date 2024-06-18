@@ -1,11 +1,14 @@
-os
+tiktoken
 faiss-cpu
 langchain
-PIL
-warnings
 langchain-community
 langchain_community
 PyPDF2
 python-dotenv
 streamlit
 openai
+ttkthemes
+tkinter
+fitz
+pandas
+pyperclip
