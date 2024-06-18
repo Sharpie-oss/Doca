@@ -1,4 +1,5 @@
-une fois installer streamlit, faite :
+installer les requirements 
 
-streamlit hello 		    dans le cmd ( metter une adresse mail random ça marche )
+aller à la source du fichier appli.py
 
+py (py3/python) appli.py
